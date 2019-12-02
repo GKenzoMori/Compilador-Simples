@@ -1,0 +1,49 @@
+funcao inteiro soma (inteiro x inteiro y inteiro z)
+funcaoinicio
+   retorno x + y ;
+funcaofim
+
+programa
+inicio
+    inteiro a;
+    inteiro b <- 4;
+    inteiro c<-6;
+    inteiro d <- c * 2;
+    inteiro m <- b+c+d;
+    flutuante f1 <- 3.14;
+    flutuante m1;
+    inteiro v[10];
+    flutuante a1;
+    inteiro paulo;
+   
+    paulo <- 3;
+    b <- b * 2 ;
+    a <- 9;
+    d <- a * b - m;
+
+    m1 <- f1 * 2;
+
+    escreva a;
+    escreva f1;
+    escreva 5;
+    escreva 8.7;
+    escreva a * b - f1;
+    escreva b + c - (b div c * d + nao c);
+    escreva m1 + d;
+    escreva paulo;
+    escreva d;
+    d <- nao a;
+    escreva d;
+
+    a <-  v[2] + v[3] + v[4];
+
+    para a de 1 ate 2 passo 1 faca
+      a <- a + a;
+    fimpara
+
+    enquanto (a > c e b > c) ou c > a faca
+      escreva a * 10 ;
+      a <- a - 1 ;
+    fimenquanto
+
+fim

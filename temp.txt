@@ -1,0 +1,19 @@
+funcao inteiro q (inteiro x)
+funcaoinicio
+   retorno x * x ;
+funcaofim
+
+programa 
+inicio   
+
+inteiro a ;
+inteiro r ;
+
+leia a;
+
+r <- q(a) ;
+
+escreva r ;
+
+
+fim

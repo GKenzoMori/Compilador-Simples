@@ -1,0 +1,92 @@
+funcao inteiro a (inteiro x inteiro y)
+funcaoinicio
+   retorno x + y ;
+funcaofim
+
+funcao flutuante by ()
+funcaoinicio
+   inteiro b;
+   b <- b * 2 ;
+   retorno b ;
+funcaofim
+
+funcao c (flutuante z)
+funcaoinicio
+   inteiro m;
+   inteiro n;
+   enquanto (z > m e z < n) ou (m * n) > z faca
+     z <- z - 1 ;
+   fimenquanto
+funcaofim
+
+funcao d ()
+funcaoinicio
+   inteiro o;
+   para o de 1 ate 10 passo 1 faca
+     escreva o;
+   fimpara
+funcaofim
+
+programa
+inicio
+    inteiro p[10] ;
+    inteiro q <- 6 ;
+    flutuante r ;
+    inteiro t[10];
+    inteiro g;
+    inteiro h;
+    inteiro ay;
+    inteiro cy;
+    inteiro byy;
+    inteiro i;
+
+   p[1] <- 5 ;
+   
+   flutuante s;
+   
+
+   p[1] <- q div (5 + 1) ;
+   r <- 2.6 * (r - 2) ;
+    
+   escreva (p[1] + q) * p[1] ;
+   escreva r + 2 + cy ;
+
+   t[1] <- 83 + 2 + 5 + 6 + 8 + 0 ;
+   t[1] <- t + 3 ;
+
+   leia g ;
+   leia h  ;
+
+   ay <- ay + byy ;
+
+   se p[1] > q entao
+	   escreva r ;
+      se r = 5.8 entao
+         escreva p[1] ;
+      senao
+         escreva q ;
+      fimse
+   senao
+	   escreva r div 2 ;
+   fimse
+
+    a (p) ;
+    s <- a() ;
+    s <- by () ;
+    c (r) ;
+    d () ;
+
+    para i de 1 ate 10 passo 1 faca
+      escreva i ;
+    fimpara
+
+    enquanto (ay > cy e byy > cy) ou cy > ay faca
+      escreva ay * 10 ;
+      ay <- ay - 1 ;
+    fimenquanto
+
+    // oi
+
+    /* teste comment */
+   
+fim
